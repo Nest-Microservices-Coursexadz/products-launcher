@@ -141,4 +141,7 @@ services:
 ## PROD
 
 1. Clonar repositorio
-2. ``````
+2. ```bash
+docker compose -f docker-compose.prod.yml build 
+docker compose -f docker-compose.prod.yml up -d
+```

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tienda-microservices-493223",
+  "private_key_id": "b2cea15812ba6f34e60414a7af2ae6e651485773",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/sXQwF13X0MR1\nOtugpiGYL8POfQcPyfiNPGZ6GVS+QczvkqutgTalN9xqAqSfzp1ow3nTQF+rleaK\nGKCgw+ufvsuKM/V0yeqLi+tEwt8hJBtlII9RI/+c1bxcmsfjfwvqvT9XqRqFTV6j\nIuwTvO1oerI4oFPA+wCxrTfFRxiwA24TD0jOyUgvXx7qSmoGUGRXoV9krrwP5nSL\nqg6mGaaHdscnjL9NdZmf9SMaat+5q69brjahTlFYEK4ugdXg9LkiXzw7k0lBUYCj\nJ/JRanBG/CumicoO10+bZGboBElOhngu/bELoqvyU+Qyq6cIdG5yL03/iEddJJbS\nGIYp7gfRAgMBAAECggEASktEdL8Zp+NJwQWmyYSZ0JnykbzzV7M3mcWnEftvVK27\n974ou34w56fWzV9o3mb9qvTX6oAwlBfs2ejhmG1WjPstd8rbfwAi3yLDdEryn62W\n0ILmCNSi5O4RqvJyNkGvJLNkMV1g4fkyjJekV6IJgUzMdhXtYAXoJvSzgMolT1HY\nSSTtj6/rv/RAS77cYs2c2jvdUHCr9dZ444GYjSNudE0sOo1aEjp6NEIsoSEDfSNv\nkW100mSDtzR2fxQQ9lJRSS4I6BkcN6gHzmwKQqAzVa6b2jJQVRh6w8FmkWojPqkL\nQqIhVwssqz9aKLpj+S2Jupm5LYCMSl4wideOXX3p4QKBgQD2u8rQAtO+HAafFkKr\nrtXvHWAuPQw6jfZndPRnV+QCqMMchKbkByt03UMhsY5lNHSTqOWXbMhHqvKTDwqp\nNmand91bo2fV8NX+lvzx8e7VKiEaxL32y5l01WPXAg6aKF1rKqLuGhR1zB1OB/cd\nbDQcbktVsrIyFeoVvo07oxh6dwKBgQDG5HqBx99U3G/MgeB5tXkCksdyBL4JdvKQ\nQO9DVlAhkx1yme6ZPi5IFtQvA0qSkRQl46znIOrDfZ/xe3A9acas1+io0TxCM/ou\n2mFrdoSoMjP8O45HdNIiaSe5jjosMrIFj97ft3TbNvGX8JsXe6laE6i/3fPl60kR\npT3NvcfZ9wKBgQDfAvZZ9XQ1zVcezBwO2cR8kGyy3nMDKfWhpVCTaBmrXaadTDkc\num5I/wUCm149k6AbJvn+WFDelmETEvFr6MP4cpsdjSD5eumxZ//RH//jpGSvsUyS\nmYxm0cmgOTfBluJ5Ttxdoi0EHC4QrZpqebbQS9DD8PSn2K7wYH9/e/dQGQKBgB01\nxwwyZ4lWCpFVbbtSPKB1IBeNvL81GfC3qKwSDBiyO3vuQY1+BVwPBkCVUiluZzAd\nXPJg8jmdxJS5lUVfuI7/8qqAeEIc0hx5dB9NO7RcEyhzMrUp4gatvOjSi5acJ2sL\nsybWEbJ0Qk0XSB/NyJRzGLB9D2nwAT43L3l86tIHAoGADFv2ATClnhdunoETEm1Y\nP7CAzq9V1E+RKWb3pGcgzLGs7q272RmvV70ifFzc7uiT7MUViZu45/XuAYi/slgO\nltOb9WX40SzGXpRfSAS7uZCwh0Y3kfajD/jk3g/FE5yvye4s3J0dzper8mOAtqXX\nLKvmTQqT4hXcOR8I9HOw2wI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "k8s-tienda-registry-reader@tienda-microservices-493223.iam.gserviceaccount.com",
+  "client_id": "115857253033523853748",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/k8s-tienda-registry-reader%40tienda-microservices-493223.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
